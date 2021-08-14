@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "#homepage": "only '/build/' is used from 'https://sample.com/build/' below - it replaces %PUBLIC_URL% in public/index.html during build",
-  "homepage": "https://sample.com/build/",
+  "homepage": "https://sample.com/25_5Clock/build/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
